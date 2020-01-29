@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ffbd8b719f94a554cb4aeb9a7c12073e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RowPrefab: {fileID: 6798055979555240704, guid: 6f68f2cc48e789e479e93de44736cc5f,
+      type: 3}
+  - BigRowPrefab: {fileID: 3394087093712675655, guid: e4142093b3f9584469cdc44e6fc39076,
+      type: 3}
+  - TextPrefab: {fileID: 1213834966769292306, guid: 812499615047b6b41b69f0fd63c75c1d,
+      type: 3}
+  - BoldTextPrefab: {fileID: 1611894051831789111, guid: fb39e24ca425d1f4792031ed1103ac47,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

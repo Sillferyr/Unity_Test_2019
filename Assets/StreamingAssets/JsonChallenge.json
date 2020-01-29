@@ -1,0 +1,42 @@
+﻿{
+  "Title": "Team Members",
+  "ColumnHeaders" :
+  [
+    "ID",
+    "Name",
+    "Role",
+    "Nickname",
+    "Ex"
+  ],
+  "Data" :
+  [
+    {
+        "ID" : "001",
+        "Name" : "John Doe",
+        "Role" : "Engineer",
+        "Nickname" : "KillerJo",
+        "Ex" : "001"
+    },
+    {
+        "ID" : "023",
+        "Name" : "Claire Dawn",
+        "Role" : "Engineer",
+        "Nickname" : "Claw",
+        "Ex" : "101"
+    },
+    {
+        "ID" : "012",
+        "Name" : "Paul Beef",
+        "Role" : "Designer",
+        "Nickname" : "BeefyPaul",
+        "Ex" : "023"
+    },
+    {
+        "ID" : "056",
+        "Name" : "Sally Sue",
+        "Role" : "Artist",
+        "Nickname" : "Sue5555",
+        "Ex" : "123"
+    },
+  ]
+}
